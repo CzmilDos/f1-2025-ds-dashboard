@@ -70,7 +70,7 @@ Ce projet propose **une analyse complète, interactive et créative de la saison
 
 ### 1. Cloner le repo
 ```bash
-git clone https://github.com/CzmilDos/F1-Data-Science-Project-.git
+git clone https://github.com/CzmilDos/f1-2025-ds-dashboard.git
 cd f1-2025-ds-dashboard
 ```
 
