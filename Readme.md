@@ -1,12 +1,8 @@
 # 🏎️ F1 Data Science Dashboard 2025
 
-> **Auteur** : Czmil DOSSOU-YOVO  
 > **Projet Data Science, Machine Learning, Visualisation avancée**
 
-*Projet académique réalisé dans le cadre du cours "Data Science"*  
-***Intervenant** : Antoine GREA*
-
-*ESTIAM - E5 BDAI - 2024-2025*
+*Travaux d'un passionné sur son temps libre...😉*
 
 ---
 
